@@ -17,7 +17,7 @@
     </style>
 
     <style name="CustomButtonStyle" parent="Widget.AppCompat.Button.Colored">
-        <item name="android:layout_width">240dp</item>
+        <item name="android:layout_width">@dimen/button_width</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
 </resources>
